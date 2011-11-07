@@ -9,9 +9,9 @@ Step 3: Download npm and install
   (if you do the OSX install, you won't need this...)
 
 Step 4: Clone our repo
-  Create Account: https://gitorious.qa.linkedin.com/
-  Clone Step at: https://gitorious.qa.linkedin.com/arbys/arbys
-    git clone gitorious@gitorious.qa.linkedin.com:arbys/arbys.git
+  Create account on https://github.com
+  Visit in_arbys: https://github.com/Jakobo/in_arbys and FORK IT
+  Clone to local repository
 
 Step 5: Run server.js to enable Arby-isms
   $> cd arbys
