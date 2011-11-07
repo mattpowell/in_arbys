@@ -1,0 +1,22 @@
+Step 1: Install Git
+  http://git-scm.com/
+
+Step 2: Download node.js and install
+  https://github.com/joyent/node/wiki/Installation
+
+Step 3: Download npm and install
+  http://npmjs.org/
+  (if you do the OSX install, you won't need this...)
+
+Step 4: Clone our repo
+  Create Account: https://gitorious.qa.linkedin.com/
+  Clone Step at: https://gitorious.qa.linkedin.com/arbys/arbys
+    git clone gitorious@gitorious.qa.linkedin.com:arbys/arbys.git
+
+Step 5: Run server.js to enable Arby-isms
+  $> cd arbys
+  $> sudo npm install
+  $> node server.js
+
+Step 6: Visit
+  http://localhost:3000
